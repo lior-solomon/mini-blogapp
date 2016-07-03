@@ -1,0 +1,62 @@
+.header {
+    color: rebeccapurple;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.list-item {
+    display: inline-block;
+    text-decoration: none;
+}
+.link {
+    text-decoration: none;
+    padding-left: 24px;
+    color: white;
+    }
+.nav-box {
+    margin-left: 50px;
+    display: inline-block;
+    background-color: pink;
+    position: relative;
+}
+h3 {
+    color: rebeccapurple;
+    margin-left: 50px;
+}
+.text {
+    display: inline-block;
+    margin: 0 350px 0 50px;
+    background-color: rosybrown;
+    color: white;
+}
+.post-box {
+    display: inline-block;
+    background-color: pink;
+    margin-left: 50px;
+    padding-right: 30px;
+}
+.post-link {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.post-item {
+    list-style-type: none;
+}
+.post-header {
+    color: rebeccapurple;
+    position: absolute;
+    left: 400px;
+    top: 65px;
+}
+.post-text {
+    display: inline-block;
+    padding: 5px;
+    margin: 0 350px 0 50px;
+    background-color: pink;
+    background-color: rosybrown;
+    color: white;
+    position: absolute;
+    left: 350px;
+    top: 125px;
+}
+
